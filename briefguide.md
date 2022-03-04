@@ -8,6 +8,7 @@
 ![](/images/globalrdp01.png)
 
 2.选择GlobalRDP的版本
+
 ![](/images/createglobalrdp-uhost.png)
 
 3.填写服务器IP、靠近区域、服务器端口等信息，点击确定按钮创建  
@@ -27,7 +28,6 @@
 
 ## 如何使用
 
-成功创建后，会生成一个iprdp.net后缀域名  
-![](/images/gs_20180823151312.png)  
+创建成功后，会生成一个iprdp.net后缀域名。
 
 远程桌面连接，以默认端口3389为例，打开系统RDP客户端，计算机处填写加速域名${AcceleratingDomain}，免费版为${AcceleratingDomain}:${GlobalRDPPort}。输入用户名及密码点击连接，即可。
