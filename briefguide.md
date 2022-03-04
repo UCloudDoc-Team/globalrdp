@@ -29,5 +29,6 @@
 ## 如何使用
 
 创建成功后，会生成一个iprdp.net后缀域名。
+> 禁止加速域名直接提供HTTP/HTTPS访问。
 
 远程桌面连接，以默认端口3389为例，打开系统RDP客户端，计算机处填写加速域名${AcceleratingDomain}，免费版为${AcceleratingDomain}:${GlobalRDPPort}。输入用户名及密码点击连接，即可。
