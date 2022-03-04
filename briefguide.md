@@ -15,7 +15,7 @@
 ![](/images/createglobalrdp-uhost2.png)
 
 
-### PathX入口创建
+### GlobalRDP入口创建
 
 1.进入**网络加速**产品大类下远程桌面加速GlobalRDP入口，点击**创建**按钮  
 
