@@ -9,7 +9,7 @@
 
 2.选择GlobalRDP的版本
 
-![](/images/createglobalrdp-uhost.png)
+![](/images/globalrdp-create1.png)
 
 3.填写服务器IP、靠近区域、服务器端口等信息，点击确定按钮创建  
 ![](/images/createglobalrdp-uhost2.png)
@@ -21,7 +21,7 @@
 
 2.输入需要加速的服务器IP，选择可覆盖你服务器物理位置的区域选项，输入服务器端口号并创建。  
 如：假设服务器在洛杉矶，选择洛杉矶选项即可；假设服务器在曼谷，可选择能覆盖曼谷区域的香港或新加坡选项  
-![](/images/createglobalrdp-0304.png)
+![](/images/globalrdp-create.png)
 
 
 入门版GlobalRDP采用共享IP的方式，不同的实例会分配不同的端口用于RDP连接，因此GlobalRDP端口与服务器端口不一致。
